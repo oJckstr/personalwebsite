@@ -119,6 +119,9 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+li a:hover {
+  background-color: #30562B;
+}
 .full-section a {
   display: block;
   color: white;
@@ -131,7 +134,12 @@ li a {
 .full-section a:visited {
   color: gray;
 }
-
-li a:hover {
-  background-color: #30562B;
+a {
+  display: block;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+a:visited {
+  color: gray;
 }
