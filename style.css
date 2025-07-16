@@ -125,7 +125,7 @@ li a:hover {
 .full-section a {
   display: block;
   color: white;
-  font-size: 15px;
+  font-size: 12px;
   text-align: left;
 }
 .full-section a:hover {
@@ -134,12 +134,12 @@ li a:hover {
 .full-section a:visited {
   color: gray;
 }
-a {
+footer a {
   display: block;
   color: white;
   font-size: 15px;
   text-align: center;
 }
-a:visited {
+footer a:visited {
   color: gray;
 }
