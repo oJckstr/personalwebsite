@@ -130,7 +130,7 @@ nav a {
 }
 /*This adds a darker colour to the link in the nav bar when hovering over it*/
 nav a:hover {
-  background-color: #30562B;
+  background-color: #a3cef1;
 }
 /*This defines the font size and overall formatting for the links in the full-section which are the sources*/
 .full-section a {
@@ -141,7 +141,7 @@ nav a:hover {
 }
 /*This adds a darker colour to the link in the sources section when hovering over it*/
 .full-section a:hover {
-  background-color: #30562B;
+  background-color: #a3cef1;
 }
 /*This changes the link colour in the sources section to grey once opened */
 .full-section a:visited {
